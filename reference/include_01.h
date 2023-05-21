@@ -1,6 +1,7 @@
 
 #include <stdio.h>   // fopen,
 
+
 // Functions
 // Operations on files:
 remove  // Remove file (function)
