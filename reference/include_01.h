@@ -1,6 +1,5 @@
 
-#include <stdio.h>   // fopen, 
-
+#include <stdio.h>   // fopen,
 
 // Functions
 // Operations on files:
